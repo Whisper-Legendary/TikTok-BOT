@@ -1,2 +1,23 @@
 # TikTok-BOT
-TikTok BOT
+- Available TikTok BOTs :
+  - Accounts Creator
+  - Device Registration
+  - Follow Bot
+  - Like Bot
+  - Comment Bot
+  - Views Bot
+  - Saves Bot
+  - Report Bot
+  - Messages Bot
+  - Live Bots
+- Algorithms :
+  - Full Algorithms and Encryptions
+- Support :
+  - All Devices
+  - 100% Requests No Selenium
+  - 100% TikTok API No Third-party API
+  - Support Proxies
+  - No Shadowban
+- Contact :
+  - TeleGram : https://t.me/WHI3PER
+  - InstaGram : https://instagram.com/whisper_dev
